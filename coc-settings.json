@@ -1,0 +1,18 @@
+{
+	// prettier
+	"prettier.tabWidth":4,
+	"coc.preferences.formatOnSaveFiletypes" : ["css","markdown","javascript", "html", "json", "python"],
+
+	// Emmet
+
+
+	// python config
+	// see if I need to allow pylint or it already lints, whatever that means
+	"python.linting.pylintEnabled": true,     //default: false
+
+	"snippets.extends": {
+		"javascriptreact" : ["javascript"],
+		"typescript" : ["javascript"]
+	}
+
+}
