@@ -1,24 +1,25 @@
-##### Table of Contents  
-[Introduction](INSERIRLINK)  
-[Basic init.vim](INSERIRLINK)  
-[Sources](INSERIRLINK)  
-----[Sets](INSERIRLINK)  
-----[Remaps](INSERIRLINK)  
-----[NERDCommenter](INSERIRLINK)  
-----[Auto-Pairs](INSERIRLINK)  
-----[LightLine](INSERIRLINK)  
-----[Rainbow](INSERIRLINK)  
-----[UltiSnips](INSERIRLINK)  
-----[TreeSitter](INSERIRLINK)  
-----[LSP-Config](INSERIRLINK)  
-----[Compe](INSERIRLINK)  
+Table of Contents
+=================
+   * [Introduction](#introduction)
+   * [Basic init.vim](#basic-initvim)
+   * [Sources](#sources)
+      * [sets.vim](#setsvim)
+      * [remaps.vim](#remapsvim)
+      * [auto-pairs.vim](#auto-pairsvim)
+      * [lightline_powerful.vim](#lightline_powerfulvim)
+      * [nerdcommenter.vim](#nerdcommentervim)
+      * [rainbow.vim](#rainbowvim)
+      * [ultisnips.vim](#ultisnipsvim)
+      * [compe.lua](#compelua)
+      * [lsp-config.lua](#lsp-configlua)
+      * [treesitter.lua](#treesitterlua)
 
 
 
 # Introduction
 This is a tutorial for future me on everything I did to configure my neovim the way I like and use today.  
 It is broken down step-by-step, plugin-by-plugin.  
-This tutorial contains only the configuration files. If you want a installation guide, check [this link](INSERIRLINK)
+This tutorial contains only the configuration files. If you want a installation guide, check [this link](https://github.com/agonilha/vimrc/blob/main/INSTALLATION.md)
 
 Note: I was using WSL2 when I created this config, so there may be some things that you don't need if you're using OSX or Linux.
 ***
